@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Ned Makes Games
 description         : >-
-                      Hi, I'm Ned, and I make games! I also run a game development tutorial channel. Find me at the links below!
+                      Hi, I'm Ned, and I make games! Look above for a link to my most recent video and a searchable tutorial list!
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : nedmakesgames/nedmakesgames.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
