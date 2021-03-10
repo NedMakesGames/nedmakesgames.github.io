@@ -11,9 +11,14 @@ Grass is one of those things most games need, but is really difficult to get rig
 ***
 
 {% include elements/video.html id="6SFTcDNqwaA" %}
-Blade Grass: *[YouTube](https://youtu.be/6SFTcDNqwaA) [Patreon](https://www.patreon.com/posts/files-baked-47793675)* 
+Blade grass: *[YouTube](https://youtu.be/6SFTcDNqwaA) [Patreon](https://www.patreon.com/posts/files-baked-47793675)* 
+
+***
+
+{% include elements/video.html id="IPoHY_yJxMc" %}
+Shadow casting blade grass: *[YouTube](https://youtu.be/IPoHY_yJxMc) [Patreon](https://www.patreon.com/posts/48594338/)* 
 
 ***
 
 {% include elements/video.html id="UehGAVMCa7w" %}
-Layered Grass: *[YouTube](https://youtu.be/UehGAVMCa7w) [Patreon](https://www.patreon.com/posts/files-baked-48001227)* 
+Layered grass: *[YouTube](https://youtu.be/UehGAVMCa7w) [Patreon](https://www.patreon.com/posts/files-baked-48001227)* 
