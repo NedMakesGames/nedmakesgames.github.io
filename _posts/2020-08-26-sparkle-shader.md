@@ -1,6 +1,6 @@
 ---
 title: ✨ Sparkle Shaders
-tags: [Unity, Graphics Programming, URP, Shader Graph, Shader]
+tags: [Unity, Unity 2020.1, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, Shader Graph, Shader]
 style: fill
 color: secondary 
 description: "Sparkle shaders add glints of light to objects, making them look like they're covered in glitter."

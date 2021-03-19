@@ -1,6 +1,6 @@
 ---
 title: 🛑 Geometry Shader Basics
-tags: [Unity, Graphics Programming, URP, HLSL, Shader, Basics, Geometry Shader]
+tags: [Unity, Unity 2020.1, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, HLSL, Shader, Basics, Geometry Shader]
 style: fill
 color: secondary 
 description: "Geometry shaders are special shaders that can add, remove, and modify mesh triangles from the GPU."

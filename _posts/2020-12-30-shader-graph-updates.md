@@ -1,6 +1,6 @@
 ---
 title: 🌅 Shader Graph Updates
-tags: [Unity, Graphics Programming, URP, Shader Graph]
+tags: [Unity, Unity 2020.2, Graphics Programming, URP, Shader Graph]
 style: fill
 color: secondary 
 description: "What's new in the shader graph in this Unity update? Come see!"

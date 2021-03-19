@@ -1,6 +1,6 @@
 ---
 title: 🖱️ Mouse Look Camera
-tags: [Unity, Gameplay Programming, C#]
+tags: [Unity, Unity 2020.1, Unity 2020.2, Unity 2020.3, Gameplay Programming, C#]
 style: fill
 color: secondary 
 description: "A mouse look camera controller is the backbone of many first-person-view games, allowing the player to look around by moving the mouse around the screen."

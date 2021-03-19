@@ -1,6 +1,6 @@
 ---
 title: ♻️ Triangle Winding & Culling Modes
-tags: [Unity, Graphics Programming, URP, Shader Graph, Shader]
+tags: [Unity, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, Shader Graph, Shader]
 style: fill
 color: secondary 
 description: "This video explores a foundational concept in Unity's renderer: triangle winding, as well as culling modes and double sided materials."
