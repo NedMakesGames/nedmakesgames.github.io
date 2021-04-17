@@ -1,5 +1,5 @@
 ---
-title: 🧈 All About Dot Product
+title: 🐞 All About Dot Product
 tags: [Unity, Unity 2020.3, Unity 2021.1, Graphics Programming, URP, Shader Graph, HLSL, C#, Shader, Basics, Function]
 style: fill
 color: secondary 
