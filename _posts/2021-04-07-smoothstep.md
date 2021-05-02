@@ -1,6 +1,6 @@
 ---
 title: 🧈 All About SmoothStep
-tags: [Unity, Unity 2020.3, Graphics Programming, URP, Shader Graph, HLSL, C#, Shader, Basics, Function]
+tags: [Unity, Unity 2020.3, Graphics Programming, URP, Shader Graph, HLSL, C#, Shader, Basics, Math]
 style: fill
 color: secondary 
 description: "This video explains how the common function SmoothStep works and shows how to use it."
