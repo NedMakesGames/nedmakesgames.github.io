@@ -1,6 +1,6 @@
 ---
 title: 🏜️ Procedural Sand Dune
-tags: [Unity, Unity 2020.3, Graphics Programming, URP, Shader Graph, Shader, Procedural Material]
+tags: [Unity, Unity 2020.3, Graphics Programming, URP, Shader Graph, Shader, Procedural Material, Video]
 style: fill
 color: secondary 
 description: "This shader graph creates a procedural sand dune material with a custom normal map."

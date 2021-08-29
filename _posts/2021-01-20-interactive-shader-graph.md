@@ -1,6 +1,6 @@
 ---
 title: 🎯 Interactive Shader Graph
-tags: [Unity, Unity 2020.1, Unity 2020.2, Unity 2020.3, Graphics Programming, Gameplay Programming, URP, C#, Shader Graph, Shader]
+tags: [Unity, Unity 2020.1, Unity 2020.2, Unity 2020.3, Graphics Programming, Gameplay Programming, URP, C#, Shader Graph, Shader, Video]
 style: fill
 color: secondary 
 description: "In this video, I show how to set property values on a shader created in the URP shader graph from a C# script."

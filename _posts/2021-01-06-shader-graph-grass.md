@@ -1,6 +1,6 @@
 ---
 title: 🌾 Shader Graph Grass
-tags: [Unity, Unity 2020.1, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, Shader Graph, HLSL, C#, Shader, Renderer Feature, Grass]
+tags: [Unity, Unity 2020.1, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, Shader Graph, HLSL, C#, Shader, Renderer Feature, Grass, Video]
 style: fill
 color: secondary 
 description: "In this series, I show how to implement grass in the shader graph. It is ideal for lightweight games."

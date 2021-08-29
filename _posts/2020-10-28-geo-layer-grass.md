@@ -1,6 +1,6 @@
 ---
 title: 🥦 Geometry Shader Grass
-tags: [Unity, Unity 2020.1, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, Shader Graph, HLSL, Shader, Geometry Shader, Grass]
+tags: [Unity, Unity 2020.1, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, Shader Graph, HLSL, Shader, Geometry Shader, Grass, Video]
 style: fill
 color: secondary 
 description: "This video shows one way to create grass using a geometry shader."

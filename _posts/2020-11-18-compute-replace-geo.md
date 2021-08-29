@@ -1,6 +1,6 @@
 ---
 title: 🖥️ Using Compute Shaders to Replace Geometry Shaders
-tags: [Unity, Unity 2020.1, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, HLSL, C#, Shader, Basics, Compute Shader]
+tags: [Unity, Unity 2020.1, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, HLSL, C#, Shader, Basics, Compute Shader, Video]
 style: fill
 color: secondary 
 description: "Compute Shaders are scripts that run on the GPU! In this video, I convert a geometry shader to a compute shader, increasing compatibility and efficiency."

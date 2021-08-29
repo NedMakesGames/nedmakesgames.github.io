@@ -1,6 +1,6 @@
 ---
 title: ☘️ Baked Mesh Grass
-tags: [Unity, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, HLSL, C#, Shader, Compute Shader, Grass]
+tags: [Unity, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, HLSL, C#, Shader, Compute Shader, Grass, Video]
 style: fill
 color: secondary 
 description: "My most recent foray into grass rendering! Here I use a compute shader to bake a grass mesh and animate it in a graphics shader."

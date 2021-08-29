@@ -1,6 +1,6 @@
 ---
 title: 🖱️ All About the Mouse Pointer
-tags: [Unity, Unity 2020.3, Unity 2021.1, C#, Basics, Input]
+tags: [Unity, Unity 2020.3, Unity 2021.1, C#, Basics, Input, Video]
 style: fill
 color: secondary 
 description: "This video explains the mouse pointer and how to work with it in screen and world space."

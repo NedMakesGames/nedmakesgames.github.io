@@ -1,6 +1,6 @@
 ---
 title: 🎢 All About Partial Derivatives
-tags: [Unity, Unity 2020.3, Unity 2021.1, Graphics Programming, URP, Shader Graph, HLSL, Shader, Basics, Math]
+tags: [Unity, Unity 2020.3, Unity 2021.1, Graphics Programming, URP, Shader Graph, HLSL, Shader, Basics, Math, Video]
 style: fill
 color: secondary 
 description: "This video explains the shader partial derivative functions: ddx, ddy, and fwidth."

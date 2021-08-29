@@ -120,3 +120,8 @@ tiktok:
   url   : https://www.tiktok.com/@
   icon  : fab fa-tiktok
   color : 000000
+  
+medium:
+  url   : https://
+  icon  : fab fa-medium
+  color : 00ab6c

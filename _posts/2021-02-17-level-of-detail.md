@@ -1,6 +1,6 @@
 ---
 title: 👁️ Intro to Level of Detail
-tags: [Unity, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, Shader Graph, Shader, Basics]
+tags: [Unity, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, Shader Graph, Shader, Basics, Video]
 style: fill
 color: secondary 
 description: "Level of detail, or LOD, is a technique where the system chooses different versions of a mesh to render based on how much screen space it takes up. Here, I go over the details in Unity."

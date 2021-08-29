@@ -1,6 +1,6 @@
 ---
 title: 📦 Hull Outlines
-tags: [Unity, Unity 2020.1, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, HLSL, Shader, Renderer Feature, Outlines]
+tags: [Unity, Unity 2020.1, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, HLSL, Shader, Renderer Feature, Outlines, Video]
 style: fill
 color: secondary 
 description: "Outlines are a fun technique to add style to your game. In this video, I use a renderer feature to render a mesh twice, extruding the 'hull' backwards to make an outline."
