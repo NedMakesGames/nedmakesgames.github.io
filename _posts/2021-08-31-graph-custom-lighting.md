@@ -1,5 +1,5 @@
 ---
-title: 🥤 Blend Modes
+title: 🌞 Custom Lighting Shader Graph
 tags: [Unity, Unity 2020.3, Unity 2021.1, Graphics Programming, URP, Shader Graph, HLSL, Shader, Math, Lighting, Video, Article]
 style: fill
 color: dark 
@@ -11,4 +11,7 @@ Do you have a material that doesn't look quite right in Unity's URP lit shader g
 ***
 
 {% include elements/video.html id="GQyCPaThQnA" %}
-*[YouTube](https://youtu.be/GQyCPaThQnA) [Article](https://nedmakesgames.medium.com/creating-custom-lighting-in-unitys-shader-graph-with-universal-render-pipeline-5ad442c27276) [Patreon](https://www.patreon.com/posts/55488823)* 
+*[YouTube](https://youtu.be/GQyCPaThQnA) [Article](https://nedmakesgames.medium.com/creating-custom-lighting-in-unitys-shader-graph-with-universal-render-pipeline-5ad442c27276) [Patreon](https://www.patreon.com/posts/55488823)*
+
+![Lighting Math Explorer](https://i.imgur.com/LSHH1Sb.png "Lighting Math Explorer") 
+Try out [Lighting Math Explorer](https://nedmakesgames.itch.io/lighting-explorer) to help visualize the lighting formulas showcased in this video.
