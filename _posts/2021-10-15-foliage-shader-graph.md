@@ -10,8 +10,8 @@ Plants, foliage and vegetation are really challenging to get right! It requires 
 
 ***
 
-{% include elements/video.html id="Jw1s4k15jf8" %}
-*[YouTube](https://youtu.be/Jw1s4k15jf8) [Article](https://nedmakesgames.medium.com/creating-a-foliage-shader-in-unity-urp-shader-graph-5854bf8dc4c2) [Patreon](https://www.patreon.com/posts/57361644)*
+{% include elements/video.html id="x4ufs1OzPIw" %}
+*[YouTube](https://youtu.be/x4ufs1OzPIw) [Article](https://nedmakesgames.medium.com/creating-a-foliage-shader-in-unity-urp-shader-graph-5854bf8dc4c2) [Patreon](https://www.patreon.com/posts/57361644)*
 
 ![Lighting Math Explorer](https://i.imgur.com/LSHH1Sb.png "Lighting Math Explorer") 
 Try out [Lighting Math Explorer](https://nedmakesgames.itch.io/lighting-explorer) to help visualize the lighting formulas showcased in this video.
