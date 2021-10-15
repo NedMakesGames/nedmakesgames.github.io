@@ -2,7 +2,7 @@
 title: 🌳 Translucent Foliage Shader Graph
 tags: [Unity, Unity 2020.3, Unity 2021.1, Graphics Programming, URP, Shader Graph, HLSL, Shader, Math, Lighting, Foliage, Video, Article]
 style: fill
-color: dark 
+color: secondary 
 description: "Implement a foliage shader in Unity's URP Shader Graph, with double-sided rendering, translucency, and wind."
 ---
 
