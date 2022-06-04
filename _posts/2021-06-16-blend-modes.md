@@ -1,6 +1,6 @@
 ---
 title: 🥤 Blend Modes
-tags: [Unity, Unity 2020.3, Unity 2021.1, Graphics Programming, URP, Shader Graph, HLSL, Shader, Math, Textures, Video]
+tags: [Unity, Unity 2020, Unity 2021, Graphics Programming, URP, Shader Graph, HLSL, Shader, Math, Textures, Video]
 style: fill
 color: secondary 
 description: "This video shows each of the blend node's modes and discusses the math behind them."

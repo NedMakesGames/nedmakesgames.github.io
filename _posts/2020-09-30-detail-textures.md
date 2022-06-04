@@ -1,6 +1,6 @@
 ---
 title: 🔍 Detail Textures
-tags: [Unity, Unity 2020.1, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, Shader Graph, Shader, Video]
+tags: [Unity, Unity 2020, Graphics Programming, URP, Shader Graph, Shader, Video]
 style: fill
 color: secondary 
 description: "If you have terrain or a large building that you want to look good from far away, but also close up, detail textures are a good tool! They allow you to have the best of both worlds without using gigantic files."

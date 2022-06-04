@@ -1,6 +1,6 @@
 ---
 title: ⚪ Desaturate Renderer Feature
-tags: [Unity, Unity 2020.1, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, Shader Graph, Shader, Renderer Feature, C#, Basics, Video]
+tags: [Unity, Unity 2020, Graphics Programming, URP, Shader Graph, Shader, Renderer Feature, Post Processing, C#, Video, Introduction]
 style: fill
 color: dark 
 description: "Renderer features are custom render passes you can add to your game using Unity's Universal Render Pipeline. You can use them to create your own post-processing, such as desaturation!"

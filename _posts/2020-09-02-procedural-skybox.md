@@ -1,6 +1,6 @@
 ---
 title: ⛅ Procedural Skybox
-tags: [Unity, Unity 2020.1, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, Shader Graph, Shader, Video]
+tags: [Unity, Unity 2020, Graphics Programming, URP, Shader Graph, Shader, Video, Material]
 style: fill
 color: secondary 
 description: "Skyboxes are special materials which Unity renders behind everything else in your scene. They're a great tool to add polish to your project."

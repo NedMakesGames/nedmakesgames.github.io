@@ -1,6 +1,6 @@
 ---
 title: 🐞 All About Dot Product
-tags: [Unity, Unity 2020.3, Unity 2021.1, Graphics Programming, URP, Shader Graph, HLSL, C#, Shader, Basics, Math, Video]
+tags: [Unity, Unity 2020, Unity 2021, Graphics Programming, URP, Shader Graph, HLSL, C#, Shader, Introduction, Math, Video]
 style: fill
 color: secondary 
 description: "This video explains the dot product and gives several examples of its use in games."

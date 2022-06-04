@@ -1,6 +1,6 @@
 ---
 title: 🕸️ Tessellation Shaders
-tags: [Unity, Unity 2020.3, Unity 2021.1, Unity 2021.2, Graphics Programming, URP, HLSL, Shader, Math, Advanced, Video, Article]
+tags: [Unity, Unity 2020, Unity 2021, Graphics Programming, URP, HLSL, Shader, Math, Advanced, Video, Article]
 style: fill
 color: secondary 
 description: "All about tessellation shaders! These modify meshes on the fly, allowing for many cool effects, like scaling up low-poly models and rendering height maps."

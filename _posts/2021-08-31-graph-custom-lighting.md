@@ -1,6 +1,6 @@
 ---
 title: 🌞 Custom Lighting Shader Graph
-tags: [Unity, Unity 2020.3, Unity 2021.1, Graphics Programming, URP, Shader Graph, HLSL, Shader, Math, Lighting, Video, Article]
+tags: [Unity, Unity 2020, Unity 2021, Graphics Programming, URP, Shader Graph, HLSL, Shader, Math, Lighting, Video, Article]
 style: fill
 color: dark 
 description: "Implement custom lighting in Unity's URP Shader Graph for stylized art or non-standard lit materials."

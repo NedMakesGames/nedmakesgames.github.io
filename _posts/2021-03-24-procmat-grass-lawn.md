@@ -1,6 +1,6 @@
 ---
 title: 🦩 Procedural Grass Lawn
-tags: [Unity, Unity 2020.3, Graphics Programming, URP, Shader Graph, Shader, Procedural Material, Video]
+tags: [Unity, Unity 2020.3, Graphics Programming, URP, Shader Graph, Shader, Material, Video]
 style: fill
 color: secondary 
 description: "This is a fun shader graph that draws a sparkling, freshly mown grass lawn! No textures required."

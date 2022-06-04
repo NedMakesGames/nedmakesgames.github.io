@@ -1,6 +1,6 @@
 ---
 title: 🎨 Blending Two Cameras
-tags: [Unity, Unity 2020.3, Unity 2021.1, Graphics Programming, URP, Shader Graph, HLSL, C#, Shader, Renderer Feature, Camera, Video]
+tags: [Unity, Unity 2020, Unity 2021, Graphics Programming, URP, Shader Graph, HLSL, C#, Shader, Renderer Feature, Post Processing, Video]
 style: fill
 color: secondary 
 description: "This video shows how to smoothly blend two camera's views using a render texture and renderer feature."

@@ -1,6 +1,6 @@
 ---
 title: 🌱 Dynamic LOD Grass
-tags: [Unity, Unity 2020.1, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, HLSL, C#, Shader, Compute Shader, Grass, Video]
+tags: [Unity, Unity 2020, Graphics Programming, URP, HLSL, C#, Shader, Compute Shader, Grass, Advanced, Video]
 style: fill
 color: secondary 
 description: "In this series, I investgate rendering grass using a compute shader to build meshes dynamically at runtime, incorporating level of detail into the mesh itself."

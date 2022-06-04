@@ -1,6 +1,6 @@
 ---
 title: 🍬 Procedural Candy Cane
-tags: [Unity, Unity 2020.1, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, Shader Graph, Shader, Procedural Material, Video]
+tags: [Unity, Unity 2020, Graphics Programming, URP, Shader Graph, Shader, Material, Video]
 style: fill
 color: secondary 
 description: "Candy canes are a fun reminder of the Holidays time of year, so I wanted to try to program a procedural material to recreate one!"

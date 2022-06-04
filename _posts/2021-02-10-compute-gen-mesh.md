@@ -1,6 +1,6 @@
 ---
 title: 🏭 Generating Meshes with Compute Shaders
-tags: [Unity, Unity 2020.2, Unity 2020.3, Graphics Programming, Editor, URP, HLSL, C#, Compute Shader, Basics, Video]
+tags: [Unity, Unity 2020, Graphics Programming, Editor, URP, HLSL, C#, Compute Shader, Introduction, Video]
 style: fill
 color: dark 
 description: "Compute shaders are scripts than run on the GPU. If you need a mesh generated, they can do it super fast!"

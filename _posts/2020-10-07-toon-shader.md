@@ -1,6 +1,6 @@
 ---
 title: ✏️ Toon Shaders
-tags: [Unity, Unity 2020.1, Unity 2020.2, Unity 2020.3, Graphics Programming, URP, Shader Graph, HLSL, Shader, Toon, Lighting, Video]
+tags: [Unity, Unity 2020, Graphics Programming, URP, Shader Graph, HLSL, Shader, Toon, Lighting, Video]
 style: fill
 color: dark 
 description: "Toon Shaders, also called Cel Shaders, create a cartoon-like style with segmented shading. Features include: diffuse and specular lighting, color textures, shading ramp textures, shadows, and multiple light sources."

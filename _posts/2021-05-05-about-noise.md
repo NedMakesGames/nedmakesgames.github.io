@@ -1,6 +1,6 @@
 ---
 title: 🔊 All About White Noise
-tags: [Unity, Unity 2020.3, Unity 2021.1, C#, Shader, Shader Graph, HLSL, Basics, Math, Procedural Generation, Video]
+tags: [Unity, Unity 2020, Unity 2021, C#, Shader, Shader Graph, HLSL, Introduction, Math, Video]
 style: fill
 color: secondary 
 description: "This video introduces white noise, a way to generate random numbers for shaders and procedural generation."

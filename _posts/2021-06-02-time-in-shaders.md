@@ -1,6 +1,6 @@
 ---
 title: ⏱️ Time in Shaders
-tags: [Unity, Unity 2020.3, Unity 2021.1, Graphics Programming, URP, Shader Graph, HLSL, Shader, Basics, Math, Animation, Video]
+tags: [Unity, Unity 2020, Unity 2021, Graphics Programming, URP, Shader Graph, HLSL, Shader, Math, Video]
 style: fill
 color: secondary 
 description: "This video finds out exactly what all those time variables mean, and shows how to animate in shaders."
