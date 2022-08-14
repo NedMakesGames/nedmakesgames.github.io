@@ -12,3 +12,6 @@ Would you like to start writing shaders but don’t know where to start? Or, hav
 
 {% include elements/video.html id="KVWsAL37NGw" %}
 Part 1: The Graphics Pipeline and You - *[Video](https://youtu.be/KVWsAL37NGw) [Article](https://nedmakesgames.medium.com/writing-unity-urp-shaders-with-code-part-1-the-graphics-pipeline-and-you-798cbc941cea) [Patreon project files](https://www.patreon.com/posts/project-files-1-67346134)* 
+
+{% include elements/video.html id="1bm0McKAh9E" %}
+Part 2: Let There Be Light (And Shadow) - *[Video](https://youtu.be/1bm0McKAh9E) [Article](https://nedmakesgames.medium.com/112d370c2b75) [Patreon project files](https://www.patreon.com/posts/project-files-be-69845730)* 
