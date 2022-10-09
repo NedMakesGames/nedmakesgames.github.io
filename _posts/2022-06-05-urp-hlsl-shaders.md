@@ -15,3 +15,6 @@ Part 1: The Graphics Pipeline and You - *[Video](https://youtu.be/KVWsAL37NGw) [
 
 {% include elements/video.html id="1bm0McKAh9E" %}
 Part 2: Let There Be Light (And Shadow) - *[Video](https://youtu.be/1bm0McKAh9E) [Article](https://nedmakesgames.medium.com/112d370c2b75) [Patreon project files](https://www.patreon.com/posts/project-files-be-69845730)* 
+
+{% include elements/video.html id="4zw6Vq5CzLY" %}
+Part 3: Transparent and Crystal Clear - *[Video](https://youtu.be/4zw6Vq5CzLY) [Article](https://nedmakesgames.medium.com/f6ccd6686507) [Patreon project files](https://www.patreon.com/posts/73061337)* 
