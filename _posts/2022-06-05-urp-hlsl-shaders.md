@@ -18,3 +18,6 @@ Part 2: Let There Be Light (And Shadow) - *[Video](https://youtu.be/1bm0McKAh9E)
 
 {% include elements/video.html id="4zw6Vq5CzLY" %}
 Part 3: Transparent and Crystal Clear - *[Video](https://youtu.be/4zw6Vq5CzLY) [Article](https://nedmakesgames.medium.com/f6ccd6686507) [Patreon project files](https://www.patreon.com/posts/73061337)* 
+
+{% include elements/video.html id="5GGISvt4KEA" %}
+Part 4: Mapping Our Way to PBR - *[Video](https://youtu.be/5GGISvt4KEA) [Article](https://nedmakesgames.medium.com/6c4ae9875529) [Patreon project files](https://www.patreon.com/posts/81272385)* 
